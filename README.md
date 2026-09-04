@@ -121,3 +121,4 @@ This interactive visual interface must answer the following operational question
 - [ ] Which country or branch is currently leading sales in the **Home & Bedding** category?
 - [ ] What are the top 5 best-selling products across all regions this week?
 - [ ] What is the real profit margin per country after standardized currency conversion?
+
